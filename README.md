@@ -101,4 +101,4 @@ Open your web browser and navigate to:
 This project was developed for educational purposes as part of the **SmartInternz Applied Data Science Internship Program**.
 
 Developed by 
-Soundarya Udagatti
+Pratiksha Koli
